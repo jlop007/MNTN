@@ -1,0 +1,43 @@
+/* Import fonts */
+@font-face {
+    font-family: Chronicle Display;
+    src: url('../fonts/ChronicleDisplay.woff');
+}
+@font-face {
+    font-family: Gilroy;
+    src: url('../fonts/Gilroy.woff');
+}
+/* Custom properties */
+:root{
+    --clr-light: #fff;
+    --clr-dark: #0b1d26;
+    --clr-accent: #fbd784;
+
+    --font-family-title: 'Chronicle Display';
+    --font-family-body: 'Gilroy';
+
+    --font-size-sm: 1.4rem;
+    --font-size-md: 1.6rem;
+    --font-size-lg: 3.2rem;
+    --font-size-xl: 4.8rem;
+
+    --margin-bottom-sm: 1.6rem;
+    --margin-bottom-md: 2.4rem;
+    --margin-bottom-lg: 3.2rem;
+
+    --section-spacing: 4rem 0 2.5rem;
+    --container-spacing: 0 2.4rem;
+}
+/* Base styles */
+
+/* Reusable classes */
+
+/* header */
+
+/* Hero */
+
+/* Hiking information */
+
+/* Footer */
+
+/* Media queries */
