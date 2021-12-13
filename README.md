@@ -4,4 +4,4 @@
 
 #### Watch the video [here](https://youtu.be/3-t3Zmtsvb8)
 
-![This is an image](/thumbnail.jpg)
+![Project humbnail](/thumbnail.jpg)
